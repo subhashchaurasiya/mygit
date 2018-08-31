@@ -12,6 +12,7 @@ echo "Go and eat samosha";
 echo "Go and eat burger";
 echo "Go and eat pizza once more";
 echo "Some changes are there";
+echo "Some changes are there";
 
 }else{
     echo "You are thirsty";
