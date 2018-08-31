@@ -8,6 +8,7 @@
 
 if("hungry" =="hungry"){
 echo "Go and eat pizza";
+echo "Go and eat pizza once more";
 }else{
     echo "You are thirsty";
     echo "Drink soda as well";
