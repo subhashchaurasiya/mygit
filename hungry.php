@@ -6,4 +6,8 @@
  * and open the template in the editor.
  */
 
-echo "I am hungray";
+if("hungry" =="hungry"){
+echo "Go and eat pizza";
+}else{
+    echo "do your homework";
+}
