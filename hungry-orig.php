@@ -8,10 +8,6 @@
 
 if("hungry" =="hungry"){
 echo "Go and eat pizza";
-echo "Go and eat samosha";
-echo "Go and eat burger";
 }else{
-    echo "You are thirsty";
-    echo "Drink soda as well";
     echo "do your homework";
 }
