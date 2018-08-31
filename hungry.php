@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-if("hungry" =="hungry"){
+if("hungry" =="hungry" OR "hungry" =="hungry"){
 echo "Go and eat pizza as well as something else";
 echo "Go and eat pizza once more";
 }else{
