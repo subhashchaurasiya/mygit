@@ -9,6 +9,5 @@
 if("hungry" =="hungry"){
 echo "Go and eat pizza";
 }else{
-    echo "You are thirsty";
     echo "do your homework";
 }
